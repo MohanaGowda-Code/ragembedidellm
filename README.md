@@ -144,7 +144,7 @@ mvn spring-boot:run
 
 ## 👤 Author
 
-**Mohana**  
+**Mohana P**  
 Lead Consultant – Java & Microservices Engineer  
 Exploring AI, RAG, and LLM Integration with Spring Boot
 
